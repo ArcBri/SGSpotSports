@@ -7,13 +7,13 @@ Copy of Orbital project for Orbital 2018. Original repo at github.com/ajax-yz/SG
 [logo]: https://github.com/arcbri/SGSpotSports/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
 
 ### Table of Contents:
-1. [Motivation & Target Audience](https://github.com/ajax-yz/SGSpotSports#1-motivation--target-audience-)
-2. [User Stories](https://github.com/ajax-yz/SGSpotSports#2-user-stories-)
-3. [Wireframe](https://github.com/ajax-yz/SGSpotSports#3-wireframe-)
-4. [Features](https://github.com/ajax-yz/SGSpotSports#4-features-)
-5. [Features yet to be Implemented](https://github.com/ajax-yz/SGSpotSports#5-features-yet-to-be-implemented-)
-6. [Technology/Dependency Used](https://github.com/ajax-yz/SGSpotSports#6-technologydependency-used-)
-7. [Support](https://github.com/ajax-yz/SGSpotSports#7-support-)
+1. [Motivation & Target Audience](https://github.com/arcbri/SGSpotSports#1-motivation--target-audience-)
+2. [User Stories](https://github.com/arcbri/SGSpotSports#2-user-stories-)
+3. [Wireframe](https://github.com/arcbri/SGSpotSports#3-wireframe-)
+4. [Features](https://github.com/arcbri/SGSpotSports#4-features-)
+5. [Features yet to be Implemented](https://github.com/arcbri/SGSpotSports#5-features-yet-to-be-implemented-)
+6. [Technology/Dependency Used](https://github.com/arcbri/SGSpotSports#6-technologydependency-used-)
+7. [Support](https://github.com/arcbri/SGSpotSports#7-support-)
 
 ## 1) Motivation & Target Audience 🎯
 
@@ -34,7 +34,7 @@ In today's society, the world is changing rapidly and people tend to lead a hect
 
 ## 3) Wireframe 🔗
 
-![Wireframe](https://github.com/ajax-yz/SGSpotSports/blob/master/ReadMe-Images/wireframe.png "Wireframe snapshot")
+![Wireframe](https://github.com/arcbri/SGSpotSports/blob/master/ReadMe-Images/wireframe.png "Wireframe snapshot")
 
 ### Typical User Flow:
 
@@ -101,7 +101,7 @@ In today's society, the world is changing rapidly and people tend to lead a hect
 > Link: [**Click here to set up API**](https://developers.google.com/maps/documentation/android-sdk/intro)
 
 ### Google Firebase (Database Structure):
-![Firebase](https://github.com/ajax-yz/SGSpotSports/blob/master/ReadMe-Images/sg-spot-sports-firebase.PNG "Firebase snapshot")
+![Firebase](https://github.com/arcbri/SGSpotSports/blob/master/ReadMe-Images/sg-spot-sports-firebase.PNG "Firebase snapshot")
 
 ### Dependency:
 ```JAVA
