@@ -1,3 +1,5 @@
+Copy of Orbital project for Orbital 2018. Original repo at github.com/ajax-yz/SGSpotSports
+
 # Independent Software Development Project (Orbital):
 
 ## Application name: SG Spot Sports ![App Logo][logo]
