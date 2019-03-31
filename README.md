@@ -4,7 +4,7 @@ Copy of Orbital project for Orbital 2018. Original repo at github.com/ajax-yz/SG
 
 ## Application name: SG Spot Sports ![App Logo][logo]
 
-[logo]: https://github.com/ajax-yz/SGSpotSports/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+[logo]: https://github.com/arcbri/SGSpotSports/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
 
 ### Table of Contents:
 1. [Motivation & Target Audience](https://github.com/ajax-yz/SGSpotSports#1-motivation--target-audience-)
